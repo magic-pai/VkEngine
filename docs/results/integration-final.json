@@ -1,0 +1,19 @@
+{
+  "cpuMeanMs": 0.0,
+  "cpuP95Ms": 0.0,
+  "drawCalls": 6,
+  "durationSeconds": 0.0,
+  "frames": 0,
+  "gpu": "NVIDIA GeForce RTX 5070 Ti",
+  "gpuAllocatedBytes": 201914016,
+  "gpuMeanMs": 0.0,
+  "gpuP95Ms": 0.0,
+  "height": 796,
+  "importMilliseconds": 8573.4359,
+  "msaa": 4,
+  "objects": 1,
+  "triangles": 499721,
+  "validation": true,
+  "validationErrors": 0,
+  "width": 1070
+}
